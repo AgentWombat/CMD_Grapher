@@ -5,7 +5,7 @@ public class CmdGraph {
 
 
     /** Graphs a provided function to the command prompt over a specified domain. It automatically determines the proper range scalling.
-    *@param f The function to be graphed. Pass in a lambda express of the form "x -> f(x)" where f is defined over specified domain.
+    *@param f The function to be graphed. Pass in a lambda express of the form "x -> f(x)" where f is defined over the specified domain.
     *@param minX The start of the domain (inclusive).
     *@param maxX The end of the domain (exclusive).
     *@param xDim The number of character columns which will be in the graph.
