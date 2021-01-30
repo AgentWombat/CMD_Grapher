@@ -9,4 +9,4 @@ CmgGraph.java is the class which has a static method "graph" to graph to the com
 
 
 
-This is just a fun little math/coding thing I made a few months ago to better familiarize myself with Java.
+This is just a fun little math/coding thing I made a few months ago to have some fun in Java.
